@@ -1,0 +1,14 @@
+Binaries/ 
+Saved/ 
+Intermediate/ 
+DerivedDataCache/ 
+FileOpenOrder/ 
+obj/ 
+*-Debug.* 
+*.pdb 
+.vs/ 
+*.vcxproj 
+*.sln 
+*.DS_Store 
+!Plugins/OptiTrack/** 
+!Plugins/LONET2LiveLink/** 

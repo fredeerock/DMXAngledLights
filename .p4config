@@ -1,0 +1,5 @@
+P4IGNORE=.p4ignore 
+P4PORT=ssl:helixcore.cct.lsu.edu:1818 
+P4USER=dostrenko 
+P4HOST=DO-7670 
+P4CLIENT=dostrenko_DO-7670_544 
