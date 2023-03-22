@@ -60,6 +60,9 @@ Build/*/**
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
+# Perfoce
+.p4ignore
+
 # Built data for maps
 *_BuiltData.uasset
 
